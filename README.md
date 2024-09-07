@@ -16,8 +16,6 @@
 
 ## Projects 
 
-**Here’s the corrected version:
-
 **Here are the amazing projects I have worked on using the MERN stack:✅🌟**
 
 ### 1. [** CHIT CHAT**] [**Live Link**](https://chit-chat-92s0.onrender.com/)
@@ -36,6 +34,3 @@
 - My portfolio features a dynamic React.js application.
 - **Skills**:React JS
 
-
-
-![](https://komarev.com/ghpvc/?username=um500&color=blue&style=for-the-badge&label=Profile+Views)

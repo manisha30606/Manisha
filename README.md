@@ -8,10 +8,10 @@
 
 ## Technical Skills
 
-- ** ➡️ Languages**: Javascript, C, Core Java.
-- ** ➡️ Frameworks/Libraries**: React.JS, Next.JS, TailwindCSS , Node JS 
-- ** ➡️ Tools**: Git, GitHub , Vercel , Netlify , Render
-- ** ➡️ Databases**: MySQL , MongoDB
+-➡️ **Languages**: Javascript, C, Core Java.
+-➡️ **Frameworks/Libraries**: React.JS, Next.JS, TailwindCSS , Node JS 
+-➡️ **Tools**: Git, GitHub , Vercel , Netlify , Render
+-➡️ **Databases**: MySQL , MongoDB
 
 
 ## Projects 
